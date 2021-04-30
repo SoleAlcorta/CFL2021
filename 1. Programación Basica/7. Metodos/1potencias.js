@@ -9,5 +9,4 @@ function potencia (b, e) {
     }
     return resultado;
 }
-let resultado = potencia(base, exponente);
-console.log("El resultado es: ", resultado);
+console.log("El resultado es: ", potencia(base, exponente));
