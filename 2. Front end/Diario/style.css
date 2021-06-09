@@ -1,0 +1,30 @@
+.letraFondo {
+    color: #fefffe;
+    border-color: #fefffe;
+}
+
+/* .containerGrilla {
+    background-color: limegreen;
+} */
+
+/* .formatoGrilla {
+    border: solid 3px darkgreen;
+    
+} */
+
+.cosito {
+    border: solid 1px black;
+    padding: 2px;
+}
+
+.titulosNoti {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.copete {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: italic;
+}
