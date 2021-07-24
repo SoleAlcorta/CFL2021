@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio2proyectonpm",
+  "version": "1.0.0",
+  "description": "Segundo ejercicio. Clase23. Proyecto NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "correrEjerc2": "node funcionalidad1.js && node funcionalidad2.js"
+  },
+  "author": "Sole Alcorta",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.8.1",
+    "cowsay": "^1.5.0"
+  }
+}
