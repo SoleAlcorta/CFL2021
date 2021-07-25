@@ -22,8 +22,8 @@ class Cartuchera {
     }
 
     mostrarContenido() {
-        // console.log("Esta cartuchera esta abierta ${this.estaAbierta} y contiene ${this.tieneCosas} elementos");
-        console.log("Esta cartuchera esta abierta ", this.estaAbierta, " y contiene ", this.tieneCosas, " elementos");
+        console.log(`Esta cartuchera esta abierta ${this.estaAbierta} y contiene ${this.tieneCosas} elementos`);
+        // console.log("Esta cartuchera esta abierta ", this.estaAbierta, " y contiene ", this.tieneCosas, " elementos");
 
     }
 }

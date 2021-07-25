@@ -17,8 +17,8 @@ var Cartuchera = /** @class */ (function () {
         this.tieneCosas = this.tieneCosas - 1;
     };
     Cartuchera.prototype.mostrarContenido = function () {
-        // console.log("Esta cartuchera esta abierta ${this.estaAbierta} y contiene ${this.tieneCosas} elementos");
-        console.log("Esta cartuchera esta abierta ", this.estaAbierta, " y contiene ", this.tieneCosas, " elementos");
+        console.log("Esta cartuchera esta abierta " + this.estaAbierta + " y contiene " + this.tieneCosas + " elementos");
+        // console.log("Esta cartuchera esta abierta ", this.estaAbierta, " y contiene ", this.tieneCosas, " elementos");
     };
     return Cartuchera;
 }());
