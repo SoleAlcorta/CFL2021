@@ -1,0 +1,5 @@
+BIENVENIDO A LA MAQUINA TRAGAMONEDAS!
+Aquí encontrara 2 juegos.
+Ingrese el numero 1 para apostar por numeros en escalera.
+Ingrese el numero 2 para apostar por numeros iguales.
+BUENA SUERTE!

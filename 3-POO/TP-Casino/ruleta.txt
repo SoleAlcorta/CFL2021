@@ -1,0 +1,5 @@
+BIENVENIDO AL JUEGO DE LA RULETA!
+Ingrese sus apuestas.
+Tienen que ser numeros que vayan del 0 al 36.
+Para finalizar apuestas ingrese: 123
+BUENA SUERTE!

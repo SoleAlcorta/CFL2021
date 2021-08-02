@@ -1,0 +1,17 @@
+{
+  "name": "tp-casino",
+  "version": "1.0.0",
+  "description": "Trabajo práctico de programación orientada a objetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sole alcorta",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.4"
+  },
+  "dependencies": {
+    "@types/node": "^16.4.7"
+  }
+}
