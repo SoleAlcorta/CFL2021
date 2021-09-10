@@ -1,0 +1,119 @@
+/* primeros 4 div... No estaría pudiendo acomodarlos */
+.encabezado {
+    background-color: gray;
+    border-radius: 16px;
+    border: 1px solid slategrey;
+  
+
+}
+
+.logo {
+    background-color: navy;
+    color: oldlace;
+    width: 150px;
+    height: 25px;
+
+}
+
+.contenedor1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+      
+}
+
+.menu1 {
+    background-color: green;
+    color: oldlace;
+    width: 300px;
+    height: 25px;
+}
+
+.menu2 {
+    background-color: maroon;
+    color: oldlace;
+    width: 600px;
+    height: 25px;
+}
+
+/* div izq/centro/derecha */
+.contenedor2 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.izquierda {
+    background-color: darkslategrey;
+    color: oldlace;
+    width: 32%;
+    height: 300px;
+    border-radius: 16px;
+    border: 1px solid slategrey;
+
+}
+
+.centro {
+    background-color: turquoise;
+    color: oldlace;
+    width: 32%;
+    height: 300px;
+    border-radius: 16px;
+    border: 1px solid slategrey;
+
+}
+
+.derecha {
+    background-color: orange;
+    color: oldlace;
+    width: 32%;
+    height: 300px;
+    border-radius: 16px;
+    border: 1px solid slategrey;
+}
+
+/* div izq2/der2 */
+.contenedor3 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.izquierda2 {
+    background-color: darkgreen;
+    color: oldlace;
+    width: 66%;
+    height: 250px;
+    border-radius: 16px;
+    border: 1px solid slategrey;
+
+}
+
+.derecha2 {
+    background-color: maroon;
+    color: oldlace;
+    width: 32%;
+    height: 250px;
+    border-radius: 16px;
+    border: 1px solid slategrey;
+}
+
+/* pie */
+.pie {
+    background-color: aqua;
+    height: 120px;
+    border-radius: 16px;
+    border: 3px solid slategrey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.elemento {
+    background-color: navy;
+    color: oldlace;
+    width: 150px;
+    height: 25px;
+    margin-right: 20px;
+}
+

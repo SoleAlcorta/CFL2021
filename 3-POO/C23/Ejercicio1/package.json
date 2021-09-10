@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio1",
+  "version": "1.0.0",
+  "description": "Primer ejercicio npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "saludo": "node e1.js && node nombreSaludo.js"
+  },
+  "author": "Sole Alcorta",
+  "license": "ISC"
+}

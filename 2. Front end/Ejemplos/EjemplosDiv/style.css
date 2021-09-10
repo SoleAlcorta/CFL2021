@@ -1,0 +1,16 @@
+.encabezado {
+    height: 90px;
+    text-align: left;
+    background-color: #CCCCCC;
+}
+
+.cuerpo {
+    background-color: #666666;
+    color: white;
+    height: 300px;
+}
+
+.pie {
+    background-color: #00CCFF;
+    height: 50px;
+}

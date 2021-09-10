@@ -1,0 +1,20 @@
+
+.tamañoCarrousel {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#txtCarrousel {
+    font-size: 20px;
+    color: seagreen;
+    font-weight: bold;
+    text-decoration: black;
+    text-align: center;
+}
+
+.colorCol {
+    background-color: cornflowerblue;
+    border: 1px solid red 
+}

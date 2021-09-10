@@ -1,0 +1,39 @@
+body {
+    background-color: gray;
+}
+
+.titulo {
+    color: red;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.imagenes {
+    background-color: seashell;
+    margin-bottom: 20px;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;   
+}
+
+img {
+    width: 500px;
+    align-items: center;
+}
+
+.centrado {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+}
+
+#de300 {
+    width: 300px;
+}

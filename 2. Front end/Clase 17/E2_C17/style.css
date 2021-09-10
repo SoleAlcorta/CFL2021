@@ -1,0 +1,8 @@
+button:hover {
+    background-color: yellow;
+}
+
+button:active {
+    color: tomato;
+    /* Probar para cambiarle el texto */
+}

@@ -1,0 +1,13 @@
+body {
+    background-image: url(Imagenes/cesped.jpg);
+    background-color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.colorNavBar {
+    background-color: darkmagenta;
+}
+
+.letraNaranja {
+    color: darkorange;
+}

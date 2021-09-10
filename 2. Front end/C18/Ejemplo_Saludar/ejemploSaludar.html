@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo Saludar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <button onclick="saludar()">Saludar</button>
+
+    <div class="container">
+        <h1>Bienvenido</h1>
+        <p>Llegaste a nuestro contador de click!</p>
+        <button onclick="clickear()">Contar click!</button>
+
+        <!-- Boton para ocultar h1 -->
+        <p id="principal">Este es el p principal</p>
+        <button onclick="ocultar()">Ocultar</button>
+
+        <!-- Boton para cambiar imagen -->
+        <img src="C:\Users\Usuario\Desktop\CFL\2. Front end\Diario\Imagenes\Cientifico Simpson.jpg" alt="Cientifico Simpson">
+        <button onclick="cambiarImg()">Cambio de Imagen</button>
+
+        <!-- Saludo con nombre -->
+        <input type="text" id="txtNombre" oninput="actualizarSaludo()">
+        <p id="txtSaludo">ACA VA EL SALUDO</p>
+
+        <p class="hidden" id="alerta">El nombre ingresado es mayor a 5 caracteres</p>
+
+        <!-- Agregar elemento en el html. NO FUNCIONA -->
+        <div class="padre">
+            Este es el div padre
+            <button onclick="crearNodo()">Crear un nodo</button>
+        </div>
+
+
+    </div>
+      
+
+
+
+
+
+
+
+    <script src="elJava.js"></script>
+</body>
+</html>

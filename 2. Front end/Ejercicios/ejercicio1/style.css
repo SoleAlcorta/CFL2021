@@ -1,0 +1,25 @@
+body {
+    background-color: indigo;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imagenes {
+    display: flex;
+    justify-content: center;
+} 
+
+img {
+    width: 500px;
+    border: 3px solid rgb(3, 3, 3);
+}
+
+h1, h2, h3 {
+    color: orange;
+    text-align: center;   
+}
+
+.primerdiv {
+    background-color: teal;
+    border-style: solid;
+    border-color: thistle;
+}
